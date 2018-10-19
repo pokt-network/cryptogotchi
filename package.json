@@ -1,0 +1,31 @@
+{
+  "name": "cryptogotchi",
+  "version": "0.0.1",
+  "description": "A proof of concept Tamagotchi on the blockchain using Web3.js, Ethereum and Pocket",
+  "main": "app/index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pokt-network/cryptogotchi.git"
+  },
+  "keywords": [
+    "ethereum",
+    "blockchain",
+    "pocket",
+    "pokt",
+    "infrastructure",
+    "web3",
+    "solidity"
+  ],
+  "author": "Luis C. de Leon <luis@pokt.network>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pokt-network/cryptogotchi/issues"
+  },
+  "homepage": "https://github.com/pokt-network/cryptogotchi#readme"
+}
