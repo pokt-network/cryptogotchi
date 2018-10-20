@@ -1,0 +1,9 @@
+{
+    "ignore": [
+        "app/public/js/dist/*"
+    ],
+    "verbose": true,
+    "events": {
+        "restart": "browserify app/public/js/app.js -o app/public/js/dist/app.min.js"
+    }
+}
